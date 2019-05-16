@@ -13,8 +13,8 @@ public class AppTest
      * Rigorous Test :-)
      */
     @Test
-    public void shouldAnswerWithTrue()
-    {
+    public void shouldAnswerWithTrue() {
+        System.out.println("test info ====");
         assertTrue( true );
     }
 }
