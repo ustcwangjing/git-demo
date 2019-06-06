@@ -5,4 +5,14 @@ public class Student {
     private int age;
     private String sex;
     private String sid;
+
+
+    public String getName(){
+        return name;
+    }
+
+
+    public void  setName(String name){
+        this.name = name;
+    }
 }
