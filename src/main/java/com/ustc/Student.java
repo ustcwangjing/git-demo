@@ -28,4 +28,8 @@ public class Student {
     public String getSid() {
         return sid;
     }
+
+    public String getSex(){
+        return sex;
+    }
 }
