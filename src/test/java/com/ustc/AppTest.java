@@ -20,6 +20,8 @@ public class AppTest
 		//变更2
         System.out.println("test info");
         assertTrue( true );
+		
+		//变更1
     }
 
 }
