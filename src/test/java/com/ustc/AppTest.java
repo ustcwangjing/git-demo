@@ -28,6 +28,7 @@ public class AppTest
     @Test
     public void  test2(){
         System.out.println("test info");
+        //变更5
     }
 
 }
