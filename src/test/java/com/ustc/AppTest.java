@@ -30,8 +30,9 @@ public class AppTest
     public void  test2(){
         System.out.println("test info");
         //变更5
-
+        System.out.println("test2 function");
         assertTrue( true ); //注释2
+
 
     }
 
