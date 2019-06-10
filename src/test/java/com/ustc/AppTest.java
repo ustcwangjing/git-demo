@@ -16,7 +16,10 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         System.out.println("test info");
+
         assertTrue( true );  //注释1
+
+		//git reset 测试1
     }
 
 }
