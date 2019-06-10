@@ -17,10 +17,6 @@ public class AppTest
     {
         System.out.println("test info");
         assertTrue( true );
-		
-		//git reset 测试1
-		
-		//git reset 测试2
     }
 
 }
