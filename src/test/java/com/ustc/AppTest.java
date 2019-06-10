@@ -7,14 +7,17 @@ import org.junit.Test;
 /**
  * Unit test for simple App.
  */
+//更改4
 public class AppTest 
 {
     /**
      * Rigorous Test :-)
      */
     @Test
+	//变更3
     public void shouldAnswerWithTrue()
     {
+		//变更2
         System.out.println("test info");
         assertTrue( true );
     }
