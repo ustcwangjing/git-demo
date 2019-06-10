@@ -7,6 +7,7 @@ public class Student {
     private String sid;
 
 
+
     public String getName(){
         return name;
     }
@@ -32,4 +33,9 @@ public class Student {
     public String getSex(){
         return sex;
     }
+
+    //注释1
+
+    //注释2
+
 }
