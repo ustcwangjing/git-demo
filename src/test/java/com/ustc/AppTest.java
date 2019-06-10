@@ -27,7 +27,7 @@ public class AppTest
     //变更4
     @Test
     public void  test2(){
-        
+        System.out.println("test info");
     }
 
 }
