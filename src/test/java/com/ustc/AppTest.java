@@ -19,6 +19,8 @@ public class AppTest
         assertTrue( true );
 		
 		//git reset 测试1
+		
+		//git reset 测试2
     }
 
 }
