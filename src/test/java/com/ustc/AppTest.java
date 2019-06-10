@@ -31,7 +31,7 @@ public class AppTest
         System.out.println("test info");
         //变更5
 
-        assertTrue( true );
+        assertTrue( true ); //注释2
 
     }
 
