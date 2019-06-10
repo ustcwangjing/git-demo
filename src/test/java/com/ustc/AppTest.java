@@ -16,7 +16,7 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         System.out.println("test info");
-        assertTrue( true );
+        assertTrue( true );  //注释1
     }
 
 }
