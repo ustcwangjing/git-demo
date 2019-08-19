@@ -7,4 +7,5 @@ package com.ustc;
  */
 public class Rebase1 {
     private String name1;
+    private String name2;
 }
