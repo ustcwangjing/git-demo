@@ -6,5 +6,4 @@ package com.ustc;
  * @Date: Create in 16:14 2019/8/19
  */
 public class master1 {
-	private int int1;
 }
